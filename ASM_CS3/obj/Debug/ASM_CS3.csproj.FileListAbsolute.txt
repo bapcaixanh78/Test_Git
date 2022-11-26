@@ -1,0 +1,16 @@
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\bin\Debug\ASM_CS3.exe.config
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\bin\Debug\ASM_CS3.exe
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\bin\Debug\ASM_CS3.pdb
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\obj\Debug\ASM_CS3.csproj.AssemblyReference.cache
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\obj\Debug\ASM_CS3.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\obj\Debug\ASM_CS3.Form1.resources
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\obj\Debug\ASM_CS3.Properties.Resources.resources
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\obj\Debug\ASM_CS3.csproj.GenerateResource.cache
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\obj\Debug\ASM_CS3.csproj.CoreCompileInputs.cache
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\obj\Debug\ASM_CS3.exe
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\obj\Debug\ASM_CS3.pdb
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\bin\Debug\EntityFramework.dll
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\bin\Debug\EntityFramework.xml
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\bin\Debug\EntityFramework.SqlServer.xml
+D:\Workspace\Csharp3\ASM_CS3\ASM_CS3\obj\Debug\ASM_CS3.csproj.CopyComplete

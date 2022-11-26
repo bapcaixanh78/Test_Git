@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e47687a4a5444ee4aee22f859d7aa2c6" Name="Diagram1">
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.CuaHang" Width="1.5" PointX="1.5" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.ChiTietSP" Width="1.5" PointX="3" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.ChucVu" Width="1.5" PointX="1.5" PointY="28.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.DongSP" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.GioHang" Width="1.5" PointX="3" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.GioHangChiTiet" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.HoaDon" Width="1.5" PointX="3" PointY="18.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.HoaDonChiTiet" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.KhachHang" Width="1.5" PointX="0.75" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.MauSac" Width="1.5" PointX="0.75" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.NSX" Width="1.5" PointX="0.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.NhanVien" Width="1.5" PointX="0.75" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.SanPham" Width="1.5" PointX="0.75" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.sysdiagrams" Width="1.5" PointX="5.75" PointY="6.875" IsExpanded="true" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK__NhanVien__IdCH__0E6E26BF" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK__ChiTietSP__IdDon__17036CC0" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK__ChiTietSP__IdMau__160F4887" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK__ChiTietSP__IdNsx__151B244E" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK__ChiTietSP__IdSP__14270015" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK2" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK2_IdChiTietSP" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK__NhanVien__IdCV__0F624AF8" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK__GioHang__IdKH__123EB7A3" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK1_IdGioHang" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK__HoaDon__IdKH__114A936A" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK__HoaDon__IdNV__1332DBDC" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="FINALASS_FPOLYSHOP_SM22_BL2_DUNGNA29Model.FK__NhanVien__IdGuiB__10566F31" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
